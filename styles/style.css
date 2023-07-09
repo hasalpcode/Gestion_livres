@@ -1,0 +1,46 @@
+.btn-color{
+    background-color: #0e1c36;
+    color: #fff;
+    
+  }
+  
+  .profile-image-pic{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+  }
+  
+  
+  
+  .cardbody-color{
+    background-color: #ebf2fa;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+
+.table{
+    margin: auto;
+    width: 80%;
+}
+.add a{
+    margin: auto;
+    font-size: 15px;
+}
+.add{
+    margin-left: 85%;
+    margin-bottom: 15px;
+}
+.titre_page{
+    margin-left: 10%;
+}
+.card{
+    width: 300px;
+    margin: auto;
+}
+.form_create{
+    width: 100%;
+    padding: 10px;
+    
+}
